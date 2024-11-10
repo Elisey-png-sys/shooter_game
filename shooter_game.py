@@ -1,6 +1,6 @@
 #Создай собственный Шутер!
-
-from pygame import *
+#авыоашвыоашвыоащшвыоащша
+from pygame import * 
 #создай игру "Лабиринт"!
 # подключение 
 from random import *
